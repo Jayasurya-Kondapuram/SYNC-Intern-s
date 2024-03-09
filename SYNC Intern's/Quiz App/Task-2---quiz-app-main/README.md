@@ -1,2 +1,2 @@
 # Quiz App
-task 2 - quiz app by sync interns
+Quiz App Task 2
